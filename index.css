@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+.container {
+  width: 1728px;
+}
+
+#banner {
+  background-image: url(img/bg.png);
+  height: 942px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: rgba(0, 0, 0, 0.3);
+}
+
+.banner-heding {
+  max-width: 816px;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+  padding-top: 87px;
+}
+
+.banner-heding h1 {
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.banner-heding p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 0 auto;
+}
+
+.name-text {
+  height: 46px;
+}
+
+.select-product {
+  width: 396px;
+  height: 46px;
+}
+
+.text-info textarea {
+  min-height: 170px;
+}
+
+input[type="submit"] {
+  width: 116px;
+  height: 48px;
+  background-color: #CC3835;
+  margin-top: 31px;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+}

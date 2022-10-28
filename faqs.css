@@ -1,0 +1,22 @@
+#hero-banner {
+  background-image: url(img/bg2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  overflow: hidden;
+
+}
+
+.faq-text {
+  max-width: 721px;
+  padding-top: 59px;
+  padding-bottom: 87px;
+}
+
+.faq-text h1 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  padding-bottom: 18px;
+}

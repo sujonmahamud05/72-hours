@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1728px;
+  margin: 0 auto;
+}
+
+#hero-banner {
+  background-image: url(img/bg1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.context-text {
+  color: #fff;
+  padding-top: 63px;
+  padding-bottom: 65px;
+  margin-left: 240px;
+
+}
+
+.context-text p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.context-text h1 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  text-transform: uppercase;
+
+}
+
+.form-about {
+  width: 816px;
+  margin: 0 auto;
+  color: #fff;
+}
+
+input[type="submit"] {
+  width: 116px;
+  height: 48px;
+  background-color: #CC3835;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 95px;
+  margin-bottom: 27px;
+}
+
+.Name-info {
+  height: 46px;
+
+}
+
+.custom-bg {
+  position: absolute;
+  right: -194px;
+
+}
+
